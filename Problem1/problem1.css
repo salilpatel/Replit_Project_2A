@@ -1,0 +1,11 @@
+table, th, td{
+  border: 1px solid black;
+  }
+body{
+  margin: 100px 150px 100px 150px;
+  }
+#hobby{
+  height: 150px;
+  width: 400px;
+  text-align: center;
+}
